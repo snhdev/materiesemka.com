@@ -9,7 +9,7 @@ weight = 1
 [[main]]
 name = "T.I.K"
 url = "#"
-weight = 3
+weight = 2
 hasChildren = true
 
   [[main]]
@@ -69,7 +69,7 @@ hasChildren = true
 [[main]]
 name = "Pariwisata"
 url = "#"
-weight = 3
+weight = 4
 hasChildren = true
 
   [[main]]
