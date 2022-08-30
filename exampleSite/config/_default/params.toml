@@ -5,13 +5,13 @@ favicon = "images/favicon.png"
 logo = "images/logo.png"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
-logo_width = "200x"
+logo_width = "250x"
 # logo text will only show when logo is missing.
 logo_text = "Boilerplate"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Kumpulan Materi, Latihan Soal dan Pembahasan Materi SMK"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
@@ -51,8 +51,8 @@ title_small = "di Materi Esemka"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Membantu menemukan materi sesuai dengan jurusanmu"
-button_label = "Mulai dari sini !"
-button_link = "about/"
+button_label = "Mulai dari sini"
+button_link = "semua-materi/"
 
 # Advertise
 [advertisement]
