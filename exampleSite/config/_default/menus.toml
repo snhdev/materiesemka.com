@@ -9,7 +9,8 @@ weight = 1
 [[main]]
 name = "TIK"
 url = "about/"
-weight = 2
+weight = 3
+hasChildren = true
 
   [[main]]
   parent = "TIK"
@@ -41,23 +42,6 @@ name = "Contact"
 url = "contact/"
 weight = 3
 
-[[main]]
-name = "Pages"
-url = "#"
-weight = 3
-hasChildren = true
-
-  [[main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/"
-  weight = 1
-
-  [[main]]
-  parent = "Pages"
-  name = "Categories"
-  url = "categories/"
-  weight = 2
 
 # footer menu
 [[footer]]
@@ -66,16 +50,16 @@ url = "/"
 weight = 1
 
 [[footer]]
-name = "About"
-url = "about/"
+name = "Privacy Policy"
+url = "privacy-policy/"
 weight = 2
 
 [[footer]]
-name = "Contact"
-url = "contact/"
+name = "Disclaimer"
+url = "disclaimer/"
 weight = 3
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "About"
+url = "about/"
 weight = 4
