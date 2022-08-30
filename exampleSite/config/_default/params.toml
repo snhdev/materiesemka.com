@@ -46,8 +46,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-# title_large = "Selamat Datang"
-title_small = "Materi Esemka"
+# title_large = "Materi Esemka"
+# title_small = "Materi Esemka"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Membantu menemukan materi sesuai dengan jurusanmu"
