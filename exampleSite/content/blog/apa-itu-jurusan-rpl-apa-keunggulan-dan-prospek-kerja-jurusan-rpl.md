@@ -8,17 +8,13 @@ type: "regular" # available types: [featured/regular]
 draft: false
 ---
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Siapa yang merasa asing ketika jurusan RPL kerap disebut namanya ? Ada yang beranggapan bahwa RPL merupakan jurusan yang serupa dengan TKJ, padahal nyatanya berbeda. Kemudian apa itu jurusan RPL, apa kelebihan jurusan ini, kira-kira apa saja yang dipelajari di RPL, serta prospek kerja dari jurusan RPL itu apa ya ?. Ayo kita bahas lebih perinci.
 
+#### Apa Itu Bidang RPL?
 
-#### Covid-19 Situation
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+RPL merupakan kependekan dari Rekayasa Perangkat Lunak. Merupakan suatu jurusan yang terdapat di Sekolah Menengah Kejuruan(SMK). RPL merupakan jurusan yang fokus terhadap cara-cara pengembangan perangkat lunak, termasuk di dalamnya terdapat pembuatan, pemeliharaan, manajemen organisasi pengembangan perangkat lunak dan manajemen kualitas.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Bukan cuma itu, RPL pula berhubungan dengan aplikasi pc mulai dari pembuatan web, aplikasi, permainan serta seluruh yang berhubungan dengan pemrograman dengan memahami bahasa pemrograman itu. Intinya RPL tidak hendak jauh- jauh dari 3 perihal ialah Coding, Konsep serta Algoritma yang hendak jadi kunci kesuksesan rekayasa fitur lunak itu. 
 
-#### Work From Home
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="alter-text" >}}
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
