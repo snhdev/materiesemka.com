@@ -7,9 +7,34 @@ url = ""
 weight = 1
 
 [[main]]
-name = "About"
+name = "TIK"
 url = "about/"
 weight = 2
+
+  [[main]]
+  parent = "TIK"
+  name = "Rekayasa Perangkat Lunak"
+  url = "rekayasa-perangkat-lunak/"
+  weight = 1
+
+  [[main]]
+  parent = "TIK"
+  name = "Teknik Komputer dan Jaringan"
+  url = "teknik-komputer-jaringan/"
+  weight = 2
+
+  [[main]]
+  parent = "TIK"
+  name = "Multimedia"
+  url = "multimedia/"
+  weight = 3
+
+  [[main]]
+  parent = "TIK"
+  name = "Teknik Transmisi Telekomunikasi"
+  url = "teknik-transmisi-telekomunikasi/"
+  weight = 4
+
 
 [[main]]
 name = "Contact"
