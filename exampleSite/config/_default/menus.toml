@@ -7,8 +7,8 @@ url = ""
 weight = 1
 
 [[main]]
-name = "TIK"
-url = "about/"
+name = "T.I.K"
+url = "#"
 weight = 3
 hasChildren = true
 
@@ -34,6 +34,66 @@ hasChildren = true
   parent = "TIK"
   name = "Teknik Transmisi Telekomunikasi"
   url = "teknik-transmisi-telekomunikasi/"
+  weight = 4
+
+[[main]]
+name = "Bisnis & Manajemen"
+url = "#"
+weight = 3
+hasChildren = true
+
+  [[main]]
+  parent = "Bisnis & Manajemen"
+  name = "Bisnis Daring dan Pemasaran"
+  url = "bisnis-daring-dan-pemasaran/"
+  weight = 1
+
+  [[main]]
+  parent = "Bisnis & Manajemen"
+  name = "Otomatisasi dan Tata Kelola Perkantoran"
+  url = "otomatisasi-dan-tata-kelola-perkantoran/"
+  weight = 2
+
+  [[main]]
+  parent = "Bisnis & Manajemen"
+  name = "Perbankan dan Keuangan Mikro"
+  url = "perbankan-dan-keuangan-mikro/"
+  weight = 3
+
+  [[main]]
+  parent = "Bisnis & Manajemen"
+  name = "Manajemen Logistik"
+  url = "manajemen-logistik/"
+  weight = 4
+
+[[main]]
+name = "Pariwisata"
+url = "#"
+weight = 3
+hasChildren = true
+
+  [[main]]
+  parent = "Pariwisata"
+  name = "Perhotelan"
+  url = "perhotelan/"
+  weight = 1
+
+  [[main]]
+  parent = "Pariwisata"
+  name = "Tata Boga"
+  url = "tata-boga/"
+  weight = 2
+
+  [[main]]
+  parent = "Pariwisata"
+  name = "Tata Kecantikan"
+  url = "tata-kecantikan/"
+  weight = 3
+
+  [[main]]
+  parent = "Pariwisata"
+  name = "Tata Busana"
+  url = "tata-busana/"
   weight = 4
 
 
