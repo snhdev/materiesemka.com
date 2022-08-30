@@ -13,25 +13,25 @@ weight = 2
 hasChildren = true
 
   [[main]]
-  parent = "TIK"
+  parent = "T.I.K"
   name = "Rekayasa Perangkat Lunak"
   url = "rekayasa-perangkat-lunak/"
   weight = 1
 
   [[main]]
-  parent = "TIK"
+  parent = "T.I.K"
   name = "Teknik Komputer dan Jaringan"
   url = "teknik-komputer-jaringan/"
   weight = 2
 
   [[main]]
-  parent = "TIK"
+  parent = "T.I.K"
   name = "Multimedia"
   url = "multimedia/"
   weight = 3
 
   [[main]]
-  parent = "TIK"
+  parent = "T.I.K"
   name = "Teknik Transmisi Telekomunikasi"
   url = "teknik-transmisi-telekomunikasi/"
   weight = 4
