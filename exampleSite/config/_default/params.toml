@@ -32,7 +32,7 @@ about_widget_content = "Kumpulan Materi, Latihan Soal dan Pembahasan Materi SMK"
 # footer content
 footer_content = "Kumpulan Materi, Latihan Soal dan Pembahasan Materi SMK"
 # copyright
-copyright = "&copy; 2022 Materi Esemka . &#183; Dibuat dengan ❤️ Menggunakan Hugo"
+copyright = "&copy; 2022 Materi Esemka . &#183;  Made with ❤️ using Hugo 0.98.0"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
@@ -46,7 +46,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Banner
 [banner]
 enable = true
-# title_large = "Materi Esemka"
+title_large = "Materi Esemka"
 # title_small = "Materi Esemka"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
