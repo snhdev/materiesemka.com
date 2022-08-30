@@ -86,22 +86,22 @@ title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-#[[social]]
-#title = "twitter"
-#icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-#link = "#"
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "#"
 
-#[[social]]
-#title = "instagram"
-#icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-#link = "#"
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
 
-#[[social]]
-#title = "github"
-#icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-#link = "#"
+[[social]]
+title = "github"
+icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
 
-#[[social]]
-#title = "linkedin"
-#icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-#link = "#"
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
