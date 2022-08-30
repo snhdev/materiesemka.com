@@ -37,9 +37,27 @@ hasChildren = true
   weight = 4
 
 [[main]]
-name = "Bisnis & Manajemen"
+name = "Teknologi & Rekayasa"
 url = "#"
 weight = 3
+hasChildren = true
+
+  [[main]]
+  parent = "Teknologi & Rekayasa"
+  name = "Konstruksi Gedung, Sanitasi, dan Perawatan"
+  url = "konstruksi-Gedung-sanitasi-dan-perawatan/"
+  weight = 1
+
+  [[main]]
+  parent = "Teknologi & Rekayasa"
+  name = "Konstruksi Jalan, Irigasi, dan Jembatan"
+  url = "konstruksi-jalan-irigasi-dan-jembatan/"
+  weight = 2
+
+[[main]]
+name = "Bisnis & Manajemen"
+url = "#"
+weight = 4
 hasChildren = true
 
   [[main]]
@@ -69,7 +87,7 @@ hasChildren = true
 [[main]]
 name = "Pariwisata"
 url = "#"
-weight = 4
+weight = 5
 hasChildren = true
 
   [[main]]
