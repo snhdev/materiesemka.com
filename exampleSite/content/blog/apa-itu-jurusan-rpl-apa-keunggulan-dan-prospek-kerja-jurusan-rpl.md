@@ -1,7 +1,7 @@
 ---
 title: "Apa Itu Jurusan RPL & Apa Keunggulan dan Prospek Kerja Jurusan RPL ?"
 description: "Apa Itu Jurusan RPL & Apa Keunggulan dan Prospek Kerja Jurusan RPL ?"
-image: "images/post/apa-itu-jurusan-rpl-apa-keunggulan-dan-prospek-kerja-jurusan-rpl.png"
+image: "images/post/apa-itu-jurusan-rpl-apa-keunggulan-dan-prospek-kerja-jurusan-rpl.PNG"
 date: 2021-01-24T18:19:25+06:00
 categories: ["TIK","RPL"]
 type: "regular" # available types: [featured/regular]
