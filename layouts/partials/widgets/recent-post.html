@@ -9,7 +9,7 @@
 
   <div class="tab-content">
     <div class="blog-card-list text-start tab-pane fade show active" id="Featured">
-      {{ range first 7 ( where site.RegularPages "Type" "recent" )}}
+      {{ range first 7 ( where site.RegularPages "Type" "Featured" )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
           <!-- image path -->
