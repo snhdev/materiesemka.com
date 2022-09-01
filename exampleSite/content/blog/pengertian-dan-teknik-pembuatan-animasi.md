@@ -40,4 +40,4 @@ Teknologi pada kartun 3D ataupun 3 format khayalan yang disajikan terkesan mempu
 
 Nenek moyang bangsa Indonesia nyatanya telah mempergunakan metode menganimasikan lukisan semenjak ratusan tahun yang kemudian, ialah seni boneka. Seni pementasan ini lalu disukai serta disakralkan sampai saat ini, meski tema serta metode penyampaiannya terkesan kebekuan, buat menjaga keaslian kultur.
 
-Boneka kulit bisa dikategorikan selaku pelopor film kartun bumi dengan metode penahanan kontur bayang- bayang selaku hasil jadinya. Sehabis masa metode bayang- bayang, kemajuan film kartun hingga pada langkah mempergunakan lukisan yang disusun serta direkam dengan slide. Revolusi di aspek teknologi pula menjalar bumi kartun dengan ditemuinya metode film berbicara. 
+Boneka kulit bisa dikategorikan selaku pelopor film kartun bumi dengan metode penahanan kontur bayang- bayang selaku hasil jadinya. Sehabis masa metode bayang- bayang, kemajuan film kartun hingga pada langkah mempergunakan lukisan yang disusun serta direkam dengan slide. Revolusi di aspek teknologi pula menjalar bumi kartun dengan ditemuinya metode film berbicara.
