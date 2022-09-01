@@ -52,7 +52,7 @@ image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Membantu menemukan materi sesuai dengan jurusanmu"
 button_label = "Mulai dari sini"
-button_link = "semua-materi/"
+button_link = "categories/"
 
 # Advertise
 [advertisement]

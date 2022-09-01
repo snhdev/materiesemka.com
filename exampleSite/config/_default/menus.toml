@@ -27,7 +27,7 @@ hasChildren = true
   [[main]]
   parent = "T.I.K"
   name = "Multimedia"
-  url = "multimedia/"
+  url = "categories/multimedia/"
   weight = 3
 
   [[main]]
