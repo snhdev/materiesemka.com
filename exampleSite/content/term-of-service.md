@@ -1,52 +1,141 @@
 ---
-title: "Privacy Policy | Materiesemka.com"
-description: "Privacy Policy | Materiesemka.com"
+title: "Term Of Service | Materiesemka.com"
+description: "Term Of Service | Materiesemka.com"
 draft: false
 
 ---
 
-### Privacy Policy
+### Term Of Service
 
-#### Who we are
-Our website address is: https://www.materiesemka.com/
+If you require any more information or have any questions about our Terms of Service, please feel free to contact us by email at Contact Us.
+Introduction
 
-#### What personal data we collect and why we collect it
+These terms and conditions govern your use of this website; by using this website, you accept these terms and conditions in full and without reservation. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this website.
 
-
-##### Comments
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+You must be at least 18 [eighteen] years of age to use this website. By using this website and by agreeing to these terms and conditions, you warrant and represent that you are at least 18 years of age.
 
 
-###### Media
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+##### License to use website
+Unless otherwise stated, https://www.materiesemka.com and/or its licensors own the intellectual property rights published on this website and materials used on https://www.materiesemka.com. Subject to the license below, all these intellectual property rights are reserved.
 
 
-#### Contact forms
+You may view, download for caching purposes only, and print pages, files or other content from the website for your own personal use, subject to the restrictions set out below and elsewhere in these terms and conditions.
+
+##### You must not:
+
+republish material from this website in neither print nor digital media or documents (including republication on another website);
+
+sell, rent or sub-license material from the website;
+show any material from the website in public;
+reproduce, duplicate, copy or otherwise exploit material on this website for a commercial purpose;
+edit or otherwise modify any material on the website;
+
+redistribute material from this website – except for content specifically and expressly made available for redistribution;
+
+or republish or reproduce any part of this website through the use of iframes or screenscrapers.
+Where content is specifically made available for redistribution, it may only be redistributed within your organisation.
+Acceptable use
+
+You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of https://www.materiesemka.com or in any way which is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity.
 
 
-##### Cookies
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year. If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed. If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+You must not use this website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software.
+
+You must not conduct any systematic or automated data collection activities on or in relation to this website without https://www.materiesemka.com’s express written consent.
+This includes:
+
+scraping
+data mining
+data extraction
+data harvesting
+‘framing’ (iframes)
+Article ‘Spinning’
+You must not use this website or any part of it to transmit or send unsolicited commercial communications.
+
+You must not use this website for any purposes related to marketing without the express written consent of https://www.materiesemka.com.
+
+##### Restricted access
+
+Access to certain areas of this website is restricted. https://www.materiesemka.com reserves the right to restrict access to certain areas of this website, or at our discretion, this entire website. https://www.materiesemka.com may change or modify this policy without notice.
+
+If https://www.materiesemka.com provides you with a user ID and password to enable you to access restricted areas of this website or other content or services, you must ensure that the user ID and password are kept confidential. You alone are responsible for your password and user ID security..
 
 
-##### Embedded content from other websites
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+https://www.materiesemka.com may disable your user ID and password at https://www.materiesemka.com’s sole discretion without notice or explanation.
+User content
+
+In these terms and conditions, “your user content” means material (including without limitation text, images, audio material, video material and audio-visual material) that you submit to this website, for whatever purpose.
+
+You grant to https://www.materiesemka.com a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, adapt, publish, translate and distribute your user content in any existing or future media. You also grant to https://www.materiesemka.com the right to sub-license these rights, and the right to bring an action for infringement of these rights.
 
 
-##### Analytics
-#### Who we share your data with
-#### How long we retain your data
-If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+Your user content must not be illegal or unlawful, must not infringe any third party’s legal rights, and must not be capable of giving rise to legal action whether against you or https://www.materiesemka.com or a third party (in each case under any applicable law).
 
-#### What rights you have over your data
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+You must not submit any user content to the website that is or has ever been the subject of any threatened or actual legal proceedings or other similar complaint.
 
-#### Where we send your data
-Visitor comments may be checked through an automated spam detection service.
+https://www.materiesemka.com reserves the right to edit or remove any material submitted to this website, or stored on the servers of https://www.materiesemka.com, or hosted or published upon this website.
 
-#### Your contact information
-#### Additional information
-#### How we protect your data
-#### What data breach procedures we have in place
-#### What third parties we receive data from
-#### What automated decision making and/or profiling we do with user data
-#### Industry regulatory disclosure requirements
+https://www.materiesemka.com’s rights under these terms and conditions in relation to user content, https://www.materiesemka.com does not undertake to monitor the submission of such content to, or the publication of such content on, this website.
+No warranties
+
+This website is provided “as is” without any representations or warranties, express or implied. https://www.materiesemka.com makes no representations or warranties in relation to this website or the information and materials provided on this website.
+
+Without prejudice to the generality of the foregoing paragraph, https://www.materiesemka.com does not warrant that:
+
+this website will be constantly available, or available at all; or
+the information on this website is complete, true, accurate or non-misleading.
+
+Nothing on this website constitutes, or is meant to constitute, advice of any kind. If you require advice in relation to any legal, financial or medical matter you should consult an appropriate professional.
+Limitations of liability
+
+https://www.materiesemka.com will not be liable to you (whether under the law of contact, the law of torts or otherwise) in relation to the contents of, or use of, or otherwise in connection with, this website:
+
+to the extent that the website is provided free-of-charge, for any direct loss;
+for any indirect, special or consequential loss; or
+for any business losses, loss of revenue, income, profits or anticipated savings, loss of contracts or business relationships, loss of reputation or goodwill, or loss or corruption of information or data.
+
+These limitations of liability apply even if https://www.materiesemka.com has been expressly advised of the potential loss.
+Exceptions
+
+Nothing in this website disclaimer will exclude or limit any warranty implied by law that it would be unlawful to exclude or limit; and nothing in this website disclaimer will exclude or limit the liability of PT. OTO NIAGA MEDIA in respect of any:
+
+death or personal injury caused by the negligence of https://www.materiesemka.com or its agents, employees or shareholders/owners;
+fraud or fraudulent misrepresentation on the part of https://www.materiesemka.com; or
+matter which it would be illegal or unlawful for https://www.materiesemka.com to exclude or limit, or to attempt or purport to exclude or limit, its liability.
+
+##### Reasonableness
+
+By using this website, you agree that the exclusions and limitations of liability set out in this website disclaimer are reasonable.
+
+If you do not think they are reasonable, you must not use this website.
+Other parties
+
+You accept that, as a limited liability entity, https://www.materiesemka.com has an interest in limiting the personal liability of its officers and employees. You agree that you will not bring any claim personally against https://www.materiesemka.com’s officers or employees in respect of any losses you suffer in connection with the website.
+
+Without prejudice to the foregoing paragraph, you agree that the limitations of warranties and liability set out in this website disclaimer will protect https://www.materiesemka.com’s officers, employees, agents, subsidiaries, successors, assigns and sub-contractors as well as https://www.materiesemka.com.
+Unenforceable provisions
+
+If any provision of this website disclaimer is, or is found to be, unenforceable under applicable law, that will not affect the enforceability of the other provisions of this website disclaimer.
+Indemnity
+
+You hereby indemnify https://www.materiesemka.com and undertake to keep https://www.materiesemka.com indemnified against any losses, damages, costs, liabilities and expenses (including without limitation legal expenses and any amounts paid by https://www.materiesemka.com to a third party in settlement of a claim or dispute on the advice of https://www.materiesemka.com’s legal advisers) incurred or suffered by https://www.materiesemka.com arising out of any breach by you of any provision of these terms and conditions, or arising out of any claim that you have breached any provision of these terms and conditions.
+Breaches of these terms and conditions
+
+Without prejudice to https://www.materiesemka.com’s other rights under these terms and conditions, if you breach these terms and conditions in any way, https://www.materiesemka.com may take such action as https://www.materiesemka.com deems appropriate to deal with the breach, including suspending your access to the website, prohibiting you from accessing the website, blocking computers using your IP address from accessing the website, contacting your internet service provider to request that they block your access to the website and/or bringing court proceedings against you.
+Variation
+
+https://www.materiesemka.com may revise these terms and conditions from time-to-time. Revised terms and conditions will apply to the use of this website from the date of the publication of the revised terms and conditions on this website. Please check this page regularly to ensure you are familiar with the current version.
+Assignment
+
+https://www.materiesemka.com may transfer, sub-contract or otherwise deal with https://www.materiesemka.com’s rights and/or obligations under these terms and conditions without notifying you or obtaining your consent.
+
+You may not transfer, sub-contract or otherwise deal with your rights and/or obligations under these terms and conditions.
+Severability
+
+If a provision of these terms and conditions is determined by any court or other competent authority to be unlawful and/or unenforceable, the other provisions will continue in effect. If any unlawful and/or unenforceable provision would be lawful or enforceable if part of it were deleted, that part will be deemed to be deleted, and the rest of the provision will continue in effect.
+Entire agreement
+
+These terms and conditions, together with https://www.materiesemka.com’s Privacy Policy constitute the entire agreement between you and https://www.materiesemka.com in relation to your use of this website, and supersede all previous agreements in respect of your use of this website.
+Law and jurisdiction
+
+These terms and conditions will be governed by and construed in accordance with the laws of INDONESIA, and any disputes relating to these terms and conditions will be subject to the exclusive jurisdiction of the courts of INDONESIA.
