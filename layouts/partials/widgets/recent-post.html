@@ -8,7 +8,7 @@
   </div>
 
   <div class="tab-content">
-    <div class="blog-card-list text-start tab-pane fade show active" id="Featured">
+    <div class="blog-card-list text-start tab-pane fade show" id="Featured">
       {{ range first 7 ( where site.RegularPages "Type" "featured" )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
@@ -49,7 +49,7 @@
       </div>
       {{ end }}
     </div>
-    <div class="blog-card-list text-start tab-pane fade" id="Recent">
+    <div class="blog-card-list text-start tab-pane fade active" id="Recent">
       {{ range first 5 ( where site.RegularPages "Section" "in" site.Params.mainSections )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
