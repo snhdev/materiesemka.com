@@ -1,7 +1,7 @@
 ---
 title: "About | Materiesemka.com"
 description: "about | Materiesemka.com"
-layout: "about"
+#layout: "about"
 draft: false
 
 ---
