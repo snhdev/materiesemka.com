@@ -1,6 +1,6 @@
 ---
-title: "Let's, Talk About You"
-description: "this is meta-description"
+title: "Kontak | Materiesemka.com"
+description: "Kontak Materi Esemka"
 layout: "contact"
 draft: false
 ---

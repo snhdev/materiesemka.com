@@ -1,6 +1,7 @@
 ---
-title: "Privacy Policy | materiesemka.com"
-description: "Privacy Policy | materiesemka.com"
+
+title: "Privacy Policy | Materiesemka.com"
+description: "Privacy Policy | Materiesemka.com"
 draft: false
 
 ---

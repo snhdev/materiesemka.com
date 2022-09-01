@@ -16,7 +16,7 @@ author = "Sobat Esemka"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Sidakangen, Kalimanah, Purbalingga Jawa Tengah 53371"
-mobile = "+62"
+mobile = "+62851 5703 4255"
 email = "materiesemka@email.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
