@@ -15,7 +15,7 @@ hasChildren = true
   [[main]]
   parent = "T.I.K"
   name = "Rekayasa Perangkat Lunak"
-  url = "rekayasa-perangkat-lunak/"
+  url = "categories/rpl/"
   weight = 1
 
   [[main]]
