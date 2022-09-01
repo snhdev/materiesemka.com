@@ -127,8 +127,8 @@ url = "privacy-policy/"
 weight = 2
 
 [[footer]]
-name = "Disclaimer"
-url = "disclaimer/"
+name = "Term Of Services"
+url = "term-of-service/"
 weight = 3
 
 [[footer]]
