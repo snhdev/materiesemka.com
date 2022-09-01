@@ -1,7 +1,7 @@
 ---
 title: "Pengertian Dan Teknik Pembuatan Animasi"
 description: "Pengertian Dan Teknik Pembuatan Animasi | Materiesemka.com"
-image: "images/post/pengertian-dan-teknik-pembuatan-animasi.PNG"
+image: "images/post/pengertian-dan-teknik-pembuatan-animasi.png"
 date: 2022-09-1T18:19:25+06:00
 categories: ["TIK","Multimedia"]
 type: "reguler" # available types: [featured/regular]
