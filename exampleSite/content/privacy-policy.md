@@ -1,6 +1,6 @@
 ---
-title: "Privacy Policy"
-description: "this is meta-description"
+title: "Privacy Policy | materiesemka.com"
+description: "Privacy Policy | materiesemka.com"
 draft: false
 
 ---
