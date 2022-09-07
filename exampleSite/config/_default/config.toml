@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.materiesemka.com"
-title = "Materiesemka | Kumpulan Materi, Latihan Soal dan Pembahasan Pelajaran SMK"
+title = "Materiesemka | Kumpulan Materi, Latihan Soal dan Pembahasan Materi SMK"
 theme = "geeky-hugo"
 languageName = "En"
 languageCode = "en-us"
