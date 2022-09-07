@@ -5,6 +5,7 @@ image: "images/post/apa-itu-jurusan-rpl-apa-keunggulan-dan-prospek-kerja-jurusan
 date: 2022-08-29T18:19:25+06:00
 categories: ["TIK","RPL"]
 type: "reguler" # available types: [featured/regular]
+robotsdisallow: true
 draft: false
 ---
 
