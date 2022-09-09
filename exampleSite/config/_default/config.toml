@@ -46,6 +46,8 @@ maxAge = "720h"
 [markup]
 [markup.goldmark.renderer]
 unsafe = true
+hardWraps = true
+
 
 
 ############################ Media types ############################
