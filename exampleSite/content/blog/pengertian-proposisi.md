@@ -39,14 +39,11 @@ Proposisi majemuk menjelaskan "kemajemukan proposisi (anteseden dan konsekuen) y
 #### Negasi (~)
 Negasi/ingkaran suatu pernyataan adalah suatu pernyataan yang bernilai benar (B), jika pernyataan semula bernilai salah (S) dan sebaliknya. Berikut adalah table kebenaran Negasi
 
-<div class="table">
+   P  |   ~P  
+----- | ----- 
+   B  |   S   
+   S  |   B   
 
-|   P   |   ~P   |
-|:-----:|:------:|
-|   B   |   S    |
-|   S   |   B    |
-
-</div>
 
 B = Pernyataan bernilai benar
 S = Pernyataan bernilai salah
