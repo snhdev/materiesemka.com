@@ -2,7 +2,7 @@
 title: "Berfikir Komputasional"
 description: "Berfikir Komputasional | Materiesemka.com"
 image: "images/post/berfikir-komputasional.png"
-date: 2022-09-09T18:19:25+10:00
+date: 2022-09-09T10:19:25+10:00
 categories: ["TIK","RPL"]
 type: "reguler" # available types: [featured/regular]
 draft: false
