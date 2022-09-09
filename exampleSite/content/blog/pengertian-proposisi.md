@@ -26,11 +26,31 @@ Kebenaran suatu kalimat sesuai dengan fakta, kalimat palsu tidak sesuai dengan f
 Proposisi majemuk menjelaskan "kemajemukan proposisi (anteseden dan konsekuen) yang dipadukan". Anteseden sering disebut dengan premis, dan konsekuen disebut dengan kesimpulan. Proposisi majemuk terdiri atas satu subjek dan dua predikat atau bisa juga terdiri atas dua proposisi tunggal.
 
 ##### Contoh kalimat proposisi majemuk, antara lain :
-a. Bayam merupakan tanaman sayuran sekaligus obat alami penurun darah tinggi.
+1. Bayam merupakan tanaman sayuran sekaligus obat alami penurun darah tinggi.
    Subyek: Bayam; predikat : sayuran dan obat alami penurun darah tinggi
-b. Antiseden : “Kuda adalah kendaraan para ksatria dizaman kerajaan dan Kuda merupakan simbol kejayaan”.
+2. Antiseden : “Kuda adalah kendaraan para ksatria dizaman kerajaan dan Kuda merupakan simbol kejayaan”.
    Menjadi Konsekuen : “Kuda adalah kendaraan para ksatria dizaman kerajaan dan symbol kejayaan”
-c. Jika sinta rajin belajar maka ia lulus ujian dan mendapat hadiah istimewa.
+3. Jika sinta rajin belajar maka ia lulus ujian dan mendapat hadiah istimewa.
    A = sinta rajin belajar
    B = sinta lulus ujian
    C = sinta mendapat hadiah istimea
+
+
+#### Negasi (~)
+Negasi/ingkaran suatu pernyataan adalah suatu pernyataan yang bernilai benar (B), jika pernyataan semula bernilai salah (S) dan sebaliknya. Berikut adalah table kebenaran Negasi
+
+<div class="table">
+
+|   P   |   ~P   |
+|:-----:|:------:|
+|   B   |   S    |
+|   S   |   B    |
+
+</div>
+
+B = Pernyataan bernilai benar
+S = Pernyataan bernilai salah
+Artinya, jika suatu pernyataan (P) benar, maka bernilai salah.
+Contoh :
+P  = Es mencair jika dipanaskan
+~P = Es tidak mencair jika dipanaskan
