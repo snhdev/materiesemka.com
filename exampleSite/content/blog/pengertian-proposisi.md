@@ -8,6 +8,22 @@ type: "reguler" # available types: [featured/regular]
 draft: false
 ---
 
+<style>
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+</style>
+
 MATERIESEMKA.COM - Proposisi merupakan satu pernyataan yang melukiskan beberapa keadaan yang belum tentu benar atau salah dalam bentuk sebuah kalimat berita. Proposisi dalam istilah biasa digunakan dalam analisis logika dimana keadaan dan peristiwa secara umum melibatkan pribadi atau orang yang dirujuk dalam kalimat.
 
 Kebenaran sebuah proposisi berkorespondensi dengan fakta, sebuah proposisi yang salah tidak berkorespondensi dengan fakta. Proposisi terdiri atas empat unsur, dua di antaranya merupakan materi pokok proposisi, sedangkan dua yang lain sebagai hal yang menyertainya. Empat unsur yang dimaksudkan ialah istilah sebagai subjek, istilah sebagai predikat, kopula dan kuantor.
@@ -39,10 +55,22 @@ Proposisi majemuk menjelaskan "kemajemukan proposisi (anteseden dan konsekuen) y
 #### Negasi (~)
 Negasi/ingkaran suatu pernyataan adalah suatu pernyataan yang bernilai benar (B), jika pernyataan semula bernilai salah (S) dan sebaliknya. Berikut adalah table kebenaran Negasi
 
-   P  |   ~P  
------ | ----- 
-   B  |   S   
-   S  |   B   
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>P</th>
+      <th>~P</th>
+    </tr>
+    <tr>
+      <th>B</th>
+      <th>S</th>
+    </tr>
+    <tr>
+      <th>S</th>
+      <th>B</th>
+    </tr>
+  </table>
+</div>
 
 
 B = Pernyataan bernilai benar
