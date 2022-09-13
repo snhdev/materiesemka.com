@@ -17,15 +17,17 @@ name = "Rekayasa Perangkat Lunak"
 url = "categories/rpl/"
 weight = 1
 
-[[main]]
-name = "Teknik Komputer dan Jaringan"
-url = "teknik-komputer-jaringan/"
-weight = 2
+
 
 [[main]]
 name = "Multimedia"
 url = "categories/multimedia/"
-weight = 3
+weight = 2
+
+#[[main]]
+#name = "Teknik Komputer dan Jaringan"
+#url = "teknik-komputer-jaringan/"
+#weight = 3
 
 
 
