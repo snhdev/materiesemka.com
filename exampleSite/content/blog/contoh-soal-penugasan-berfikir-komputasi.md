@@ -2,7 +2,7 @@
 title: "Contoh Soal Penugasan Berfikir Komputasi"
 description: "Contoh Soal Penugasan Berfikir Komputasi | Materiesemka.com"
 image: "images/post/contoh-soal-penugasan-berfikir-komputasi.png"
-date: 2022-12-09T10:10:25+10:00
+date: 2022-09-12T10:10:25+10:00
 categories: ["TIK","RPL"]
 type: "reguler" # available types: [featured/regular]
 draft: false

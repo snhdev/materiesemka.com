@@ -1,13 +1,3 @@
----
-title: "Pengertian Proposisi"
-description: "Pengertian Proposisi | Materiesemka.com"
-image: "images/post/pengertian-proposisi.png"
-date: 2022-09-09T10:10:25+10:00
-categories: ["TIK","RPL"]
-type: "reguler" # available types: [featured/regular]
-draft: false
----
-
 <style>
 table {
   border-collapse: collapse;
@@ -23,6 +13,16 @@ th, td {
 
 tr:nth-child(even){background-color: #f2f2f2}
 </style>
+
+---
+title: "Pengertian Proposisi"
+description: "Pengertian Proposisi | Materiesemka.com"
+image: "images/post/pengertian-proposisi.png"
+date: 2022-09-09T10:10:25+10:00
+categories: ["TIK","RPL"]
+type: "reguler" # available types: [featured/regular]
+draft: false
+---
 
 MATERIESEMKA.COM - Proposisi merupakan satu pernyataan yang melukiskan beberapa keadaan yang belum tentu benar atau salah dalam bentuk sebuah kalimat berita. Proposisi dalam istilah biasa digunakan dalam analisis logika dimana keadaan dan peristiwa secara umum melibatkan pribadi atau orang yang dirujuk dalam kalimat.
 
