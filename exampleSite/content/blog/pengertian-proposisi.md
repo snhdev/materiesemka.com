@@ -78,4 +78,149 @@ S = Pernyataan bernilai salah
 Artinya, jika suatu pernyataan (P) benar, maka bernilai salah.
 Contoh :
 P  = Es mencair jika dipanaskan
-~P = Es tidak mencair jika dipanaskan
+~P = Es <b>tidak</b> mencair jika dipanaskan
+
+#### Konjungsi ( ^ )
+Konjungsi adalah pernyataan majemuk dengan kata hubung “dan”. Sehingga semua pernyataan yang di hubungkan dengan kata “dan” disebut konjungsi. Berikut adalah table kebenaran Konjungsi
+
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>p</th>
+      <th>Q</th>
+      <th>p ^ q</th>
+    </tr>
+    <tr>
+      <th>B</th>
+      <th>B</th>
+      <th>B</th>
+    </tr>
+    <tr>
+      <th>B</th>
+      <th>S</th>
+      <th>S</th>
+    </tr>
+    <tr>
+      <th>S</th>
+      <th>B</th>
+      <th>S</th>
+    </tr>
+    <tr>
+      <th>S</th>
+      <th>S</th>
+      <th>S</th>
+    </tr>
+  </table>
+</div>
+
+Konjungsi hanya akan bernilai <b>benar</b> jika kedua pernyataan benar
+Contoh :
+  1. Diberikan dua pernyataan berikut
+     p : Sapi berkaki empat (benar)
+     q : Sapi memiliki gading (salah)
+     Kalimat Konjungsi nya yaitu : Sapi berkaki empat dan memiliki gading (salah) (p ^ q)
+  2. Kalimat “dua adalah bilangan genap dan bilangan prima”
+     Kalimat diatas bernilai benar karena ....
+     P = dua adalah bilangan genap (benar)
+     Q = dua adalah bilangan prima (benar)
+     Dikarenakan keduanya bernilai benar, maka dipastikan diatas bernilai benar.
+
+#### Disjungsi
+Disjungsi adalah pernyataan majemuk dengan kata penghubung “atau”. Sehingga semua pernyataan yang di hubungkan dengan kata “atau” disebut disjungsi. Berikut adalah table kebenaran disjungsi.
+
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>p</th>
+      <th>Q</th>
+      <th>p v q</th>
+    </tr>
+    <tr>
+      <th>B</th>
+      <th>B</th>
+      <th>B</th>
+    </tr>
+    <tr>
+      <th>B</th>
+      <th>S</th>
+      <th>B</th>
+    </tr>
+    <tr>
+      <th>S</th>
+      <th>B</th>
+      <th>B</th>
+    </tr>
+    <tr>
+      <th>S</th>
+      <th>S</th>
+      <th>S</th>
+    </tr>
+  </table>
+</div>
+
+
+Konjungsi hanya akan bernilai <b>salah</b> jika kedua pernyataan salah.
+Contoh :
+1. Diberikan dua pernyataan berikut
+   p : Kerbau berkaki empat (benar)
+   q : kerbau memiliki gading (salah)
+   Kalimat disjungsi nya yaitu : Sapi berkaki empat dan memiliki gading (benar) (p v q)
+
+2. Kalimat “empat adalah bilangan genap dan bilangan prima”
+   Kalimat diatas bernilai salah karena ....
+   P = empat adalah bilangan ganjil (salah)
+   Q = empat adalah bilangan prima (salah)
+   Dikarenakan keduanya bernilai salah, maka dipastikan diatas bernilai salah.
+
+#### Implikasi
+Implikasi adalah pernyataan majemuk dengan kata penghubung “jika ....maka...”. Sehingga semua pernyataan yang di hubungkan dengan kata “jika” disebut implikasi. Berikut adalah table kebenaran implikasi.
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <th>p</th>
+      <th>Q</th>
+      <th>p → q</th>
+    </tr>
+    <tr>
+      <th>B</th>
+      <th>B</th>
+      <th>B</th>
+    </tr>
+    <tr>
+      <th>B</th>
+      <th>S</th>
+      <th>S</th>
+    </tr>
+    <tr>
+      <th>S</th>
+      <th>B</th>
+      <th>B</th>
+    </tr>
+    <tr>
+      <th>S</th>
+      <th>S</th>
+      <th>B</th>
+    </tr>
+  </table>
+</div>
+
+
+Implikasi hanya akan bernilai salah jika anteseden (p) benar, dan konsekuen(q) salah
+Contoh :
+1. Diberikan dua pernyataan berikut
+   p : Kerbau berkaki empat (benar)
+   q : kerbau memiliki gading (salah)
+   Kalimat implikasi nya yaitu : jika sapi berkaki empat maka sapi memiliki gading (salah) (p → q)
+2. Kalimat “empat adalah bilangan genap dan bilangan prima”
+   Kalimat diatas bernilai salah karena ....
+   P = dua adalah bilangan genap (benar)
+   Q = dua adalah bilangan prima (benar)
+   Kalimat implikasinya yaitu : jika dua adalah bilangan ganjil maka dua adalah bilangan prima (Benar)
+
+#### Inferensi
+Inferensi menurut Collins Dictionary adalah kesimpulan yang kita tarik tentang sesuatu dengan menggunakan informasi yang sudah kita miliki tentang itu .
+Contoh :
+1. Selly mendengar alarm asap di rumah tetangganya dan mencium bau daging gosong .
+   <b>Selly dapat menyimpulkan bahwa masakan tetangganya terbakar (gosong)</b>
+2. Heri melihat remah – remah kue di ruang tamu dan coklat di sekitar mulut putrinya.
+   <b>Heri dapat menyimpulkan bahwa putrinya makan kue di ruang tamu</b>
