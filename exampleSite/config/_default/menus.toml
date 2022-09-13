@@ -6,113 +6,27 @@ name = "Home"
 url = ""
 weight = 1
 
+# [[main]]
+# name = "T.I.K"
+# url = "#"
+# weight = 2
+# hasChildren = true
+
 [[main]]
-name = "T.I.K"
-url = "#"
+name = "Rekayasa Perangkat Lunak"
+url = "categories/rpl/"
+weight = 1
+
+[[main]]
+name = "Teknik Komputer dan Jaringan"
+url = "teknik-komputer-jaringan/"
 weight = 2
-hasChildren = true
-
-  [[main]]
-  parent = "T.I.K"
-  name = "Rekayasa Perangkat Lunak"
-  url = "categories/rpl/"
-  weight = 1
-
-  [[main]]
-  parent = "T.I.K"
-  name = "Teknik Komputer dan Jaringan"
-  url = "teknik-komputer-jaringan/"
-  weight = 2
-
-  [[main]]
-  parent = "T.I.K"
-  name = "Multimedia"
-  url = "categories/multimedia/"
-  weight = 3
-
-  [[main]]
-  parent = "T.I.K"
-  name = "Teknik Transmisi Telekomunikasi"
-  url = "teknik-transmisi-telekomunikasi/"
-  weight = 4
 
 [[main]]
-name = "Teknologi & Rekayasa"
-url = "#"
+name = "Multimedia"
+url = "categories/multimedia/"
 weight = 3
-hasChildren = true
 
-  [[main]]
-  parent = "Teknologi & Rekayasa"
-  name = "Konstruksi Gedung, Sanitasi, dan Perawatan"
-  url = "konstruksi-Gedung-sanitasi-dan-perawatan/"
-  weight = 1
-
-  [[main]]
-  parent = "Teknologi & Rekayasa"
-  name = "Konstruksi Jalan, Irigasi, dan Jembatan"
-  url = "konstruksi-jalan-irigasi-dan-jembatan/"
-  weight = 2
-
-[[main]]
-name = "Bisnis & Manajemen"
-url = "#"
-weight = 4
-hasChildren = true
-
-  [[main]]
-  parent = "Bisnis & Manajemen"
-  name = "Bisnis Daring dan Pemasaran"
-  url = "bisnis-daring-dan-pemasaran/"
-  weight = 1
-
-  [[main]]
-  parent = "Bisnis & Manajemen"
-  name = "Otomatisasi dan Tata Kelola Perkantoran"
-  url = "otomatisasi-dan-tata-kelola-perkantoran/"
-  weight = 2
-
-  [[main]]
-  parent = "Bisnis & Manajemen"
-  name = "Perbankan dan Keuangan Mikro"
-  url = "perbankan-dan-keuangan-mikro/"
-  weight = 3
-
-  [[main]]
-  parent = "Bisnis & Manajemen"
-  name = "Manajemen Logistik"
-  url = "manajemen-logistik/"
-  weight = 4
-
-[[main]]
-name = "Pariwisata"
-url = "#"
-weight = 5
-hasChildren = true
-
-  [[main]]
-  parent = "Pariwisata"
-  name = "Perhotelan"
-  url = "perhotelan/"
-  weight = 1
-
-  [[main]]
-  parent = "Pariwisata"
-  name = "Tata Boga"
-  url = "tata-boga/"
-  weight = 2
-
-  [[main]]
-  parent = "Pariwisata"
-  name = "Tata Kecantikan"
-  url = "tata-kecantikan/"
-  weight = 3
-
-  [[main]]
-  parent = "Pariwisata"
-  name = "Tata Busana"
-  url = "tata-busana/"
-  weight = 4
 
 
 # footer menu
