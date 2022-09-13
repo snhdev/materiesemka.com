@@ -6,31 +6,31 @@ name = "Home"
 url = ""
 weight = 1
 
-[[main]]
-name = "T.I.K"
-url = "#"
-weight = 2
-hasChildren = true
+# [[main]]
+# name = "T.I.K"
+# url = "#"
+# weight = 2
+# hasChildren = true
 
-  [[main]]
-  parent = "T.I.K"
-  name = "Rekayasa Perangkat Lunak"
-  url = "categories/rpl/"
-  weight = 1
+#   [[main]]
+#   parent = "T.I.K"
+#   name = "Rekayasa Perangkat Lunak"
+#   url = "categories/rpl/"
+#   weight = 1
 
-  [[main]]
-  parent = "T.I.K"
-  name = "Teknik Komputer dan Jaringan"
-  url = "teknik-komputer-jaringan/"
-  weight = 2
+#   [[main]]
+#   parent = "T.I.K"
+#   name = "Teknik Komputer dan Jaringan"
+#   url = "teknik-komputer-jaringan/"
+#   weight = 2
 
-  [[main]]
-  parent = "T.I.K"
-  name = "Multimedia"
-  url = "categories/multimedia/"
-  weight = 3
+#   [[main]]
+#   parent = "T.I.K"
+#   name = "Multimedia"
+#   url = "categories/multimedia/"
+#   weight = 3
 
-  [[main]]
+#   [[main]]
   parent = "T.I.K"
   name = "Teknik Transmisi Telekomunikasi"
   url = "teknik-transmisi-telekomunikasi/"
