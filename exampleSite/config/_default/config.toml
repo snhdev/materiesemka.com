@@ -5,7 +5,7 @@ theme = "geeky-hugo"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
-paginate = "6"
+paginate = "10"
 # post excerpt
 summaryLength = "20"
 # google analytics
@@ -46,6 +46,8 @@ maxAge = "720h"
 [markup]
 [markup.goldmark.renderer]
 unsafe = true
+hardWraps = true
+
 
 
 ############################ Media types ############################
