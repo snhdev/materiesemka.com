@@ -1,14 +1,16 @@
 ---
 title: "Mata Pelajaran Informatika untuk Anak SMP"
 description: "Mata Pelajaran Informatika untuk Anak SMP"
-image: "images/post/mata-pelajaran-informatika-untuk-anak-smp.PNG"
+image: "images/post/mata-pelajaran-informatika-untuk-anak-smp.png"
 date: 2022-12-01T09:11:25+06:00
 categories: ["SMP","INFORMATIKA"]
 type: "reguler" # available types: [featured/regular]
 draft: false
 ---
 
-MATERIESEMKA.COM - Informatika adalah bidang ilmu mengenai studi, perancangan, dan pembuatan sistem komputasi. Apa itu komputasi? Menurut KBBI, komputasi adalah: (1) penghitungan dengan menggunakan komputer; (2) dalam matematika, penghitungan dengan menggunakan bilangan-bilangan atau peubah-peubah yang dilaksanakan berdasarkan urutan langkah yang diberikan. 
+MATERIESEMKA.COM - Informatika adalah bidang ilmu mengenai studi, perancangan, dan pembuatan sistem komputasi. Apa itu komputasi? Menurut KBBI, komputasi adalah: 
+(1) penghitungan dengan menggunakan komputer; 
+(2) dalam matematika, penghitungan dengan menggunakan bilangan-bilangan atau peubah-peubah yang dilaksanakan berdasarkan urutan langkah yang diberikan. 
 
 
 #### Landasan Berfikir
