@@ -65,3 +65,13 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.plugins.js]]
 link = "plugins/webfont-loader/webfont-loader-2.js"
+
+[permalinks]
+    posts = ":filename/"
+
+
+rssLimit = 10
+[outputFormats]
+    [outputFormats.RSS]
+        mediatype = "application/rss"
+        baseName = "feed"
