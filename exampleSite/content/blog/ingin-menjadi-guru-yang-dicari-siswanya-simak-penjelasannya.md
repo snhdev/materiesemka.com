@@ -64,3 +64,8 @@ Demikian informasinya, semoga bermanfaat untuk para guru di Indonesia.
 Jaya selalu guru Indonesia.
 Salam Merdeka Belajar.
 
+
+##### Penulis, 
+
+SULISTIONO, S. Pd
+Guru PPKn SMK Negeri 1 Purbalingga Jawa Tengah
