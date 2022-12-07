@@ -70,8 +70,10 @@ link = "plugins/webfont-loader/webfont-loader-2.js"
     posts = ":filename/"
 
 
-rssLimit = 10
-[outputFormats]
-    [outputFormats.RSS]
-        mediatype = "application/rss"
-        baseName = "feed"
+rssLimit = 20
+copyright = "2022 Materi Esemka All rights reserved"
+languageCode = "en-us"
+
+[author]
+	name = "Esenha Dev"
+	email = "materiesemka.com"
