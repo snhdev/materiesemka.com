@@ -2,7 +2,7 @@
 title: "Ingin Menjadi Guru Yang dicari Siswanya ? Simak Penjelasannya"
 description: "Ingin Menjadi Guru Yang dicari Siswanya ? Simak Penjelasannya"
 image: "images/post/ingin-menjadi-guru-yang-dicari-siswanya-simak-penjelasannya.png"
-date: 2022-12-07T22:07:25+06:00
+date: 2022-12-07T15:07:25+06:00
 categories: ["PPG"]
 type: "reguler" # available types: [featured/regular]
 draft: false
