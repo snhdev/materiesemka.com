@@ -1,8 +1,8 @@
 ---
-title: "Ingin Menjadi Guru Yang dicari Siswanya ? Simak Penjelasannya"
-description: "Ingin Menjadi Guru Yang dicari Siswanya ? Simak Penjelasannya"
-image: "images/post/ingin-menjadi-guru-yang-dicari-siswanya-simak-penjelasannya.png"
-date: 2022-09-07T15:07:25+06:00
+title: "Pembelajaran Paradigma Baru"
+description: "Pembelajaran Paradigma Baru"
+image: "images/post/pembelajaran-paradigma-baru.png"
+date: 2022-12-09T15:07:25+06:00
 categories: ["PPG"]
 type: "reguler" # available types: [featured/regular]
 draft: false
