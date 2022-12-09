@@ -2,7 +2,7 @@
 title: "Pembelajaran Paradigma Baru"
 description: "Pembelajaran Paradigma Baru"
 image: "images/post/pembelajaran-paradigma-baru.png"
-date: 2022-12-09T12:07:25+06:00
+date: 2022-12-09T10:07:25+06:00
 categories: ["PPG"]
 type: "reguler" # available types: [featured/regular]
 draft: false
