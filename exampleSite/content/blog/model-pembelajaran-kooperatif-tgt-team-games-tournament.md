@@ -2,7 +2,7 @@
 title: "Model Pembelajaran Kooperatif TGT (Team Games Tournament)"
 description: "Model Pembelajaran Kooperatif TGT (Team Games Tournament)"
 image: "images/post/model-pembelajaran-kooperatif-tgt-team-games-tournament.png"
-date: 2023-01-12T08:07:25+06:00
+date: 2023-01-12T07:20:25+06:00
 categories: ["PPG"]
 type: "reguler" # available types: [featured/regular]
 draft: false
