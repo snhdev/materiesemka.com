@@ -2,7 +2,7 @@
 title: "Model pembelajaran Make A Match dan langkah-langkahnya"
 description: "Model pembelajaran Make A Match dan langkah-langkahnya"
 image: "images/post/model-pembelajaran-make-a match-dan-langkah-langkahnya.png"
-date: 2023-12-12T07:07:25+06:00
+date: 2022-12-12T07:07:25+06:00
 categories: [""]
 type: "reguler" # available types: [featured/regular]
 draft: false
