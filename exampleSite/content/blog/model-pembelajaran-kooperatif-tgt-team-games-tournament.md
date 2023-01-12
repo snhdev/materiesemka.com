@@ -3,14 +3,14 @@ title: "Model Pembelajaran Kooperatif TGT (Team Games Tournament)"
 description: "Model Pembelajaran Kooperatif TGT (Team Games Tournament)"
 image: "images/post/model-pembelajaran-kooperatif-tgt-team-games-tournament.png"
 date: 2023-01-12T07:20:25+06:00
-categories: ["PPG"]
+categories: [""]
 type: "reguler" # available types: [featured/regular]
 draft: false
 ---
 ###### Penulis, 
 
-SULISTIONO, S. Pd
-Guru PPKn SMK Negeri 1 Purbalingga Jawa Tengah
+Ermi Misgiyati, S.Pd
+Guru SMA Negeri 1 Bukateja Purbalingga Jawa Tengah
 
 
 #### Pengertian Model Pembelajaran TGT
